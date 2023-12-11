@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Farid Malekpour 👨‍💻
 
-![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchcoder294&icons=true&theme=radical)
-
 Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a knack for creating efficient and scalable applications. At 26 years old, I'm enthusiastic about solving real-world problems through technology.
 
 ## 🔧 Skills & Technologies
@@ -14,6 +12,8 @@ Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a k
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchcoder294&icons=true&theme=radical)
 
 ## 🚀 Exciting Facts
 - I believe in the power of clean code and robust architecture.
