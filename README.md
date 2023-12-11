@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Farid Malekpour 👨‍💻
 
-![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchcoder294_icons=true&theme=radical)
 
 Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a knack for creating efficient and scalable applications. At 26 years old, I'm enthusiastic about solving real-world problems through technology.
 
