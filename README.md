@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a k
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchcoder294&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
