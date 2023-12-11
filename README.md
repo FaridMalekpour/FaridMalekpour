@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a knack for creating efficient and scalable applications. At 26 years old, I'm enthusiastic about solving real-world problems through technology.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 
 ## 🔧 Skills & Technologies
