@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Farid Malekpour 👨‍💻
+![Header](https://github.com/Frenchcoder294/Frenchcoder294/assets/130099331/25a8d76c-ebd1-4a71-81c9-2bb660b21ec4)
 
 Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a knack for creating efficient and scalable applications. At 26 years old, I'm enthusiastic about solving real-world problems through technology.
 
