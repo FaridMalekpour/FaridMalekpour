@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/OIP.deo4SV06W8DJAxa1f5u_tQHaCR?rs=1&pid=ImgDetMain)
+<img width="100%" src="https://th.bing.com/th/id/OIP.deo4SV06W8DJAxa1f5u_tQHaCR?rs=1&pid=ImgDetMain">
 
 
 
