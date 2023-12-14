@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/Frenchcoder294/Frenchcoder294/assets/130099331/2079a5ae-868e-4ca0-9eef-82b30c618310)
+![image](https://github.com/Frenchcoder294/Frenchcoder294/assets/130099331/f8c6c927-f6eb-436f-a974-0aebcb9724ad)
+
 
 
 Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a knack for creating efficient and scalable applications. At 26 years old, I'm enthusiastic about solving real-world problems through technology.
