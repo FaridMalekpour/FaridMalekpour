@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a k
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
-## 🔧 Skills & Technologies
+### 🔧 Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a k
 <a href="https://instagram.com/farid.malekpour294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farid.malekpour294" height="30" width="40" /></a>
 </p>
 
-## 🚀 Exciting Facts
+### 🚀 Exciting Facts
 - I believe in the power of clean code and robust architecture.
 - Passionate about continuous learning and staying updated with the latest tech trends.
 - I enjoy collaborating with fellow developers to build innovative solutions.
