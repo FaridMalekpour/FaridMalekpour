@@ -1,80 +1,44 @@
-![banner](https://github.com/user-attachments/assets/d284e11f-b48a-46b6-b0ba-aa478b35bd42)
+![web](https://github.com/user-attachments/assets/76aa42d4-d4cc-4dc8-9096-ae60b7b1e7f2)
 
-# Hi, I'm Farid Malekpour 👋
+Welcome to my GitHub profile! I'm an Infrastructure Engineer passionate about Linux systems, virtualization, infrastructure automation, and building reliable production environments. I enjoy solving complex infrastructure challenges with automation and continuously improving system reliability and performance.
 
-Infrastructure Engineer focused on Linux systems, VMware virtualization, infrastructure automation, and production environments.
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-I enjoy building reliable infrastructure, automating repetitive tasks with Python, Bash, and PowerShell, and solving complex system and networking challenges.
+### 🔧 Skills & Technologies
 
-<img align="right" alt="Infrastructure" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
-## ⚙️ Technologies & Tools
-
-### Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Networking & Development
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Python](https://img.shields.io/badge/Automation-3776AB?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
 
----
-
-## 🚀 What I Work With
-
-- Linux & Windows Server Administration
-- VMware ESXi & vCenter
-- Infrastructure Automation
-- VPS & Cloud Infrastructure
-- Docker
-- Networking & Troubleshooting
-- Python, Bash & PowerShell
-- Production Systems
-- System Monitoring
-
----
-
-## 📫 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farid-malekpour" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+<a href="https://linkedin.com/in/farid-malekpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farid-malekpour" height="30" width="40" /></a>
+<a href="https://instagram.com/farid.malekpour294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farid.malekpour294" height="30" width="40" /></a>
 </p>
 
----
+### 🚀 About Me
 
-## 📊 GitHub Stats
+- Building and automating reliable Linux and Windows infrastructure.
+- Experienced with VMware virtualization, VPS platforms, networking, and production environments.
+- Passionate about automation using Python, Bash, and PowerShell.
+- Always learning new technologies and improving infrastructure reliability.
+- Open to collaborating on infrastructure, automation, and open-source projects.
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaridMalekpour&theme=dark"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FaridMalekpour&theme=dark" alt="FaridMalekpour" /></p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FaridMalekpour&show_icons=true&theme=dark"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FaridMalekpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="FaridMalekpour" /></p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridMalekpour&layout=compact&theme=dark"/>
-</p>
+Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate on infrastructure, automation, or open-source projects.
 
----
-
-## 💡 Current Focus
-
-- Infrastructure Engineering
-- Linux Systems
-- VMware
-- Automation
-- Networking
-- Production Infrastructure
-- Platform Engineering
+> "The only way to do great work is to love what you do." - Steve Jobs
