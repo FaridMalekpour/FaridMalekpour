@@ -1,45 +1,80 @@
+![banner](https://github.com/user-attachments/assets/d284e11f-b48a-46b6-b0ba-aa478b35bd42)
 
-![web](https://github.com/user-attachments/assets/d284e11f-b48a-46b6-b0ba-aa478b35bd42)
+# Hi, I'm Farid Malekpour 👋
 
+Infrastructure Engineer focused on Linux systems, VMware virtualization, infrastructure automation, and production environments.
 
+I enjoy building reliable infrastructure, automating repetitive tasks with Python, Bash, and PowerShell, and solving complex system and networking challenges.
 
-Welcome to my GitHub profile! I'm a passionate Backend Django Developer with a knack for creating efficient and scalable applications. I'm enthusiastic about solving real-world problems through technology.
+<img align="right" alt="Infrastructure" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+## ⚙️ Technologies & Tools
 
-
-### 🔧 Skills & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FAST API](https://img.shields.io/badge/FAST_API-005571?style=for-the-badge)
+
+### Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Networking & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Automation-3776AB?style=for-the-badge)
 
+---
 
+## 🚀 What I Work With
 
-<h3 align="left">Connect with me:</h3>
+- Linux & Windows Server Administration
+- VMware ESXi & vCenter
+- Infrastructure Automation
+- VPS & Cloud Infrastructure
+- Docker
+- Networking & Troubleshooting
+- Python, Bash & PowerShell
+- Production Systems
+- System Monitoring
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/farid-malekpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farid-malekpour" height="30" width="40" /></a>
-<a href="https://instagram.com/farid.malekpour294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farid.malekpour294" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/farid-malekpour" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
 </p>
 
-### 🚀 Exciting Facts
-- I believe in the power of clean code and robust architecture.
-- Passionate about continuous learning and staying updated with the latest tech trends.
-- I enjoy collaborating with fellow developers to build innovative solutions.
-- "Coding is not just my job; it's my creative outlet!"
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FaridMalekpour&theme=dark" alt="FaridMalekpour" /></p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FaridMalekpour&show_icons=true&locale=en&layout=compact&theme=dark" alt="FaridMalekpour" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaridMalekpour&theme=dark"/>
+</p>
 
-Feel free to explore my repositories and don't hesitate to reach out. Let's create something amazing together! 😄
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FaridMalekpour&show_icons=true&theme=dark"/>
+</p>
 
-> "The only way to do great work is to love what you do." - Steve Jobs
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaridMalekpour&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 💡 Current Focus
+
+- Infrastructure Engineering
+- Linux Systems
+- VMware
+- Automation
+- Networking
+- Production Infrastructure
+- Platform Engineering
